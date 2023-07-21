@@ -17,11 +17,16 @@ data visualization (dashboard creation in Excel).
 Clients wants to create a Road Accident Dashboard for 2021 and 2022 so they can have insight on the below requirements 
 
 Primary KPI- Total causalties taken place after the accident 
+
 Primary KPI's-Total Causalties&percentage of total with respect to accident
 severity and maximum causalties by type of vehicle
 
 Secondary KPI's-Total Causalties with respect to vehicle types 
+
 Monthly trend showing comparison of causalties for current Year and previous Year 
+
 Maximum causalties by Road Type 
+
 Distribution of total causalties by Road Surface 
+
 Relation between causalties by Area /Location&by Day /Night
