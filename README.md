@@ -2,15 +2,15 @@
 
 In This project i did the following
 
-data gathering, 
+- data gathering
 
-data cleaning, 
+- data cleaning 
 
-data processing, 
+- data processing 
 
-data analysis and
+- data analysis 
 
-data visualization (dashboard creation in Excel). 
+- data visualization (dashboard creation in Excel). 
 
 
 # Requirements 
