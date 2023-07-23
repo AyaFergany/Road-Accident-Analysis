@@ -16,7 +16,7 @@ data visualization (dashboard creation in Excel).
 # Requirements 
 Clients wants to create a Road Accident Dashboard for 2021 and 2022 so they can have insight on the below requirements 
 
-Primary KPI
+Primary KPI's
 - Total causalties taken place after the accident
   
 - Total Causalties&percentage of total with respect to accident
