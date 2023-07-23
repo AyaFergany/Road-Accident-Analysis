@@ -19,7 +19,7 @@ Clients wants to create a Road Accident Dashboard for 2021 and 2022 so they can 
 Primary KPI
 - Total causalties taken place after the accident
   
--Total Causalties&percentage of total with respect to accident
+- Total Causalties&percentage of total with respect to accident
 severity and maximum causalties by type of vehicle
 
 Secondary KPI's
